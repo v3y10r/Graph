@@ -1,0 +1,16 @@
+C:\Users\v3y10r\Desktop\Graph\Graph\bin\Debug\net5.0\Graph.exe
+C:\Users\v3y10r\Desktop\Graph\Graph\bin\Debug\net5.0\Graph.deps.json
+C:\Users\v3y10r\Desktop\Graph\Graph\bin\Debug\net5.0\Graph.runtimeconfig.json
+C:\Users\v3y10r\Desktop\Graph\Graph\bin\Debug\net5.0\Graph.runtimeconfig.dev.json
+C:\Users\v3y10r\Desktop\Graph\Graph\bin\Debug\net5.0\Graph.dll
+C:\Users\v3y10r\Desktop\Graph\Graph\bin\Debug\net5.0\Graph.pdb
+C:\Users\v3y10r\Desktop\Graph\Graph\obj\Debug\net5.0\Graph.csproj.AssemblyReference.cache
+C:\Users\v3y10r\Desktop\Graph\Graph\obj\Debug\net5.0\Graph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v3y10r\Desktop\Graph\Graph\obj\Debug\net5.0\Graph.AssemblyInfoInputs.cache
+C:\Users\v3y10r\Desktop\Graph\Graph\obj\Debug\net5.0\Graph.AssemblyInfo.cs
+C:\Users\v3y10r\Desktop\Graph\Graph\obj\Debug\net5.0\Graph.csproj.CoreCompileInputs.cache
+C:\Users\v3y10r\Desktop\Graph\Graph\obj\Debug\net5.0\Graph.dll
+C:\Users\v3y10r\Desktop\Graph\Graph\obj\Debug\net5.0\refint\Graph.dll
+C:\Users\v3y10r\Desktop\Graph\Graph\obj\Debug\net5.0\Graph.pdb
+C:\Users\v3y10r\Desktop\Graph\Graph\obj\Debug\net5.0\Graph.genruntimeconfig.cache
+C:\Users\v3y10r\Desktop\Graph\Graph\obj\Debug\net5.0\ref\Graph.dll
